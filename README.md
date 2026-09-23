@@ -276,6 +276,19 @@ The machine learning models, notebooks, application code, SQL files, and project
 * Power BI dashboard integration
 * Jupyter notebooks for model development
 
+## 🖥️ Application Screenshots
+
+### Loan Approval Prediction
+![Loan Approval Prediction](screenshots/Loan.png)
+
+### Credit Risk Prediction
+![Credit Risk Prediction](screenshots/Credit%20Risk.png)
+
+### Fraud Detection
+![Fraud Detection](screenshots/Fraud.png)
+
+### Customer Segmentation
+![Customer Segmentation](screenshots/Customer%20Segmentation.png)
 
 
 \## 👨‍💻 Author
