@@ -27,3 +27,4 @@ Thumbs.db
 
 # Large datasets
 data/*.csv
+dashboard/*.pbix
